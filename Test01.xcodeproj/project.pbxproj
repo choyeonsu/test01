@@ -14,6 +14,8 @@
 		4D8117101D7A8CB40005BEA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D81170E1D7A8CB40005BEA6 /* LaunchScreen.storyboard */; };
 		4D81171B1D7A8CB40005BEA6 /* Test01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D81171A1D7A8CB40005BEA6 /* Test01Tests.swift */; };
 		4D8117261D7A8CB40005BEA6 /* Test01UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8117251D7A8CB40005BEA6 /* Test01UITests.swift */; };
+		4D8117351D7B7F740005BEA6 /* firefox.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8117331D7B7F740005BEA6 /* firefox.png */; };
+		4D8117361D7B7F740005BEA6 /* shutdown.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8117341D7B7F740005BEA6 /* shutdown.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		4D8117211D7A8CB40005BEA6 /* Test01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test01UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D8117251D7A8CB40005BEA6 /* Test01UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test01UITests.swift; sourceTree = "<group>"; };
 		4D8117271D7A8CB40005BEA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D8117331D7B7F740005BEA6 /* firefox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firefox.png; sourceTree = "<group>"; };
+		4D8117341D7B7F740005BEA6 /* shutdown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shutdown.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		4D8117041D7A8CB40005BEA6 /* Test01 */ = {
 			isa = PBXGroup;
 			children = (
+				4D8117331D7B7F740005BEA6 /* firefox.png */,
+				4D8117341D7B7F740005BEA6 /* shutdown.png */,
 				4D8117051D7A8CB40005BEA6 /* AppDelegate.swift */,
 				4D8117071D7A8CB40005BEA6 /* ViewController.swift */,
 				4D8117091D7A8CB40005BEA6 /* Main.storyboard */,
@@ -230,6 +236,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D8117101D7A8CB40005BEA6 /* LaunchScreen.storyboard in Resources */,
+				4D8117361D7B7F740005BEA6 /* shutdown.png in Resources */,
+				4D8117351D7B7F740005BEA6 /* firefox.png in Resources */,
 				4D81170D1D7A8CB40005BEA6 /* Assets.xcassets in Resources */,
 				4D81170B1D7A8CB40005BEA6 /* Main.storyboard in Resources */,
 			);
